@@ -1,0 +1,7 @@
+.editorconfig
+.gitattributes
+composer.lock
+/web
+/vendor
+/.ddev
+!/.ddev/config.yaml
